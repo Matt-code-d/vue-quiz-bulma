@@ -1,4 +1,4 @@
-# biglietto-auguri-scherzo
+# Quiz-game
 
 ## Project setup
 ```
